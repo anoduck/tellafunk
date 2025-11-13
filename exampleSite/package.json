@@ -42,7 +42,7 @@
     "autoprefixer": "^10.4.21",
     "cpy-cli": "^5.0.0",
     "eslint": "^9.27.0",
-    "flowbite": "^3.1.2",
+    "flowbite": "^4.0.0",
     "hugo-bin": "0.144.8",
     "husky": "^9.1.7",
     "markdownlint-cli2": "^0.18.1",
